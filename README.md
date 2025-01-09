@@ -21,7 +21,7 @@ npm run lint
 ```
 ### Demo
 ```
-https://celebrated-cheesecake-8dd05b.netlify.app/index.html
+https://cuongdc-poke-memories.netlify.app/
 ```
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
