@@ -57,7 +57,7 @@ export default {
         this.rules = [];
 
         this.matched++;
-        if (this.matched === this.cardsContext.length/2)
+        if (this.matched === this.cardsContext.length / 2)
           setTimeout(() => {
             this.$emit("onFinish");
           }, 920);
